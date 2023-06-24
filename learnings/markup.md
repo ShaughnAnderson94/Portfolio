@@ -7,7 +7,10 @@ Here we see a form from my agency project. The HTML code clearly lets the screen
 
 
 ## 3. Ensure our UI has sufficient colour contrast so that everyone can perceive it comfortably
+![Screenshot of a website where text on top of an image is given contrasting shadow to make it visible](/photos/contrast-image.png)
+![Screenshot of code that creates that contrast](/photos/contrast-code.png)
 
+Here we see text on top of an image from the agency project. This text is made visible by having shadow that creates maximum contrast
 ## 4. Use various tools to check that our website meets accessibility criteria
 
 ## 5. Use CSS media queries to ensure our content is always presented effectively on screens of different sizes
