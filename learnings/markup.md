@@ -1,6 +1,10 @@
 ## 1. Structure a site using semantic HTML to aid accessibility
-
 ## 2. Ensure a web page is readable for screen readers
+![Screenshot of a simple form on a web page](/photos/html-form.png)
+![Screenshot of code with semantic elements making clear what each part of the fomr is](/photos/code-form.png)
+
+Here we see a form from my agency project. The HTML code clearly lets the screen reader know there is a form which requires information and can then a submit button.
+
 
 ## 3. Ensure our UI has sufficient colour contrast so that everyone can perceive it comfortably
 
