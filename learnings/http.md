@@ -8,7 +8,9 @@ In the api project this asynchronous function was run to get info from a recipe 
 ## 5. Configure the options argument of the fetch method to make GET and POST requests
 ??????????
 ## 6. Use the map array method to create a new array containing new values
-![Screenshot of a simple form on a web page](/photos/html-form.png)
+![Screenshot of a simple form on a web page](/photos/map.png)
+
+Here this uses the map function to take an array of obrjects and make a new array consisting of those objects IDs
 ## 7. Use the filter array method to create a new array with certain values removed
 ???????
 ## 8. Access DOM nodes using a variety of selectors
