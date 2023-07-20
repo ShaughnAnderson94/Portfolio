@@ -15,9 +15,13 @@ From the checklist project a modular filter function that exists in a utility fo
 
 From the same tutorial on DOM manipulation a basic example of creating a new node
 ## 5. Apply event listeners to HTML form elements
-![Screenshot of a DOM node being selected by ID](/photos/Test5.png)
+![Screenshot of code that adds event listeners](/photos/Test5.png)
+
+Code that adds event listeners to all the tickboxes in the project to run various functions
 ## 6. Use scope to control what variables are accessible inside functions and blocks
 ????????
 ## 7. Use CSS grid to create complex layouts
 ## 8. Use CSS grid to make layouts that adapt to the viewport size
-![Screenshot of a DOM node being selected by ID](/photos/test78.png)
+![Screenshot of code for creating a gridlayout for checkboxes](/photos/test78.png)
+
+Code appliead to items in the checkbox list that gives it a grid layout.
