@@ -4,5 +4,6 @@
 ## 4. Write functions that add, remove or modify DOM nodes
 ## 5. Apply event listeners to HTML form elements
 ## 6. Use scope to control what variables are accessible inside functions and blocks
+????????
 ## 7. Use CSS grid to create complex layouts
 ## 8. Use CSS grid to make layouts that adapt to the viewport size
