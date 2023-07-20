@@ -5,6 +5,9 @@
 ## 3. Write testable, modular functions
 ![Screenshot of a DOM node being selected by ID](/photos/test3.png)
 ## 4. Write functions that add, remove or modify DOM nodes
+![Screenshot of a new DOM node being added](/photos/createDomElement.png)
+
+From the same tutorial on DOM manipulation a basic example of creating a new node
 ## 5. Apply event listeners to HTML form elements
 ![Screenshot of a DOM node being selected by ID](/photos/Test5.png)
 ## 6. Use scope to control what variables are accessible inside functions and blocks
