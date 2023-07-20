@@ -16,9 +16,13 @@ Here this uses the map function to take an array of obrjects and make a new arra
 
 In a methods demo I made this bit of code lets people play around with a filter function to shorten or lenghten the new array being created with the goal of having a lenght 3 array.
 ## 8. Access DOM nodes using a variety of selectors
-????
+![Screenshot of a DOM node being selected by ID](/photos/DOMSelect.png)
+
+Here we have from a tutorial I made on DOM manipulation a basic example of accessing a node
 ## 9. Add and remove DOM nodes to change the content on the page
-?????
+![Screenshot of a new DOM node being added](/photos/createDomElement.png)
+
+From the same tutorial on DOM manipulation a basic example of creating a new node
 ## 10. Toggle the classes applied to DOM nodes to change their CSS properties
 ??????
 ## 11. Use consistent layout and spacing
